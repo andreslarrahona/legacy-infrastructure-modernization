@@ -19,10 +19,6 @@ La configuración anterior, aunque funcional, presentaba vulnerabilidades signif
 * **Despliegue Inmaduro:** Servir aplicaciones de *front-end* y documentación **desde *runtimes* de desarrollo** (terminales abiertas) o servidores *ad-hoc* (XAMPP) comprometía la eficiencia, el rendimiento y la gestión de versiones.
 
 
-(captura de pantalla de ventanas abiertas en windows)
-
-
-
 ---
 
 ## La Solución planteada: Docker Compose y Orquestación
